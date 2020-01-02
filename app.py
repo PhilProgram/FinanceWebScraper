@@ -43,7 +43,7 @@ user_agent_list = (
     'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)',
     'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)'
 )
-DBUrl = 'mongodb+srv://mikeper030:311597660mM@cluster0-8asmb.mongodb.net/test?retryWrites=true&w=majority'
+DBUrl = 'Insert Your MONGO DB string here'
 
 # Here I provide some proxies for not getting caught while scraping
 ua = UserAgent() # From here we generate a random user agent
