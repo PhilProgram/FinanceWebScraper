@@ -5,7 +5,7 @@ idna==2.8
 lxml==4.4.2
 pymongo==3.10.0
 requests==2.22.0
-urllib3==1.25.7
+urllib3==1.26.5
 gunicorn==19.3.0
 flask==1.1.1
 fake_useragent==0.1.11
